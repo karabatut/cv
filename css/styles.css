@@ -1,9 +1,11 @@
+/*#171717  #444444  #DA0037  #EDEDED */
+
 body {
-    background-color: #E4F9F5;
+  background-color: #171717;
 }
 
 hr {
-    border-color: #30E3CA;
+    border-color: #DA0037;
     border-style: none;
     border-top-style: dotted;
     border-width: 5px;
@@ -11,9 +13,26 @@ hr {
 }
 
 h1 {
-    color: #11999E;
+    color: #EDEDED;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h3 {
-    color: #11999E;
+    color: #EDEDED;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.writing{
+    color: #EDEDED;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:visited{
+    color: #444444;
+}
+
+.profil_foto{
+    border-radius: 50%;
+    max-width: 270px;
+    height: auto;
 }
